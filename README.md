@@ -34,4 +34,6 @@ Packages used:
 System:
 * Windows
 
+You can use the terminal or R Studio. Results are printed in the console.
+
 
