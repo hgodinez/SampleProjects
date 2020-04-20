@@ -2,7 +2,7 @@
 
 ## PYTHON
 
-Reproducible Python Code to perform a Portfolio optimization of stocks based on their Sharpe Ratio Value
+"Python_Sample" Folder contaings reproducible Python Code to perform portfolio optimization of stocks based on their Sharpe Ratio Value.
 
 Packages used:
 * pandas
@@ -22,7 +22,7 @@ python -W ignore Optimization_SharpeRatio.py
 
 ## R
 
-Reproducible R Code to perform a binary classification task, for which both a training and a validation set are provided as csv files in the “/data” folder. Data is sanitized. 
+"R_Sample" Folder contains reproducible R Code to perform a binary classification task, for which both a training and a validation set are provided as csv files in the “/data” folder. Data is sanitized. 
 
 Packages used:
 * h2o
